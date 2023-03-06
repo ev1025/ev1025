@@ -3,12 +3,11 @@
 
 
 <h1 align ='center'> 🌱 꿈을 심는 데이터 분석가 이진우 </h1>
-<h4 align ='center'> 안녕하세요! 새로운 꿈을 위해 도전하는 주니어 데이터분석가입니다.</h4>
-<h4 align ='center'>새로운 꿈을 위해 도전하는 주니어 데이터분석가입니다.</h4>
+<h5 align ='center'> 안녕하세요!</h5>
+<h5 align ='center'>새로운 꿈을 위해 도전하는 주니어 데이터분석가입니다.</h5>
+
 <div align="center">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ev1025&show_icons=true&theme=vue)
-
 </div>
 
 <h3 align ='center'> :hammer:기술 스택</h3>
