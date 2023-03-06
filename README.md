@@ -4,7 +4,6 @@
 
 <h3 align ='center'> 안녕하세요!</h3>
 <h3 align ='center'>  🌱 꿈을 심는 데이터 분석가 이진우입니다! </h3>
-</br>
 
 <div align="center">
  
