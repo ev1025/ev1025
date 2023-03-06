@@ -7,7 +7,9 @@
 <h5 align ='center'>새로운 꿈을 위해 도전하는 주니어 데이터분석가입니다.</h5>
 
 <div align="center">
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ev1025&show_icons=true&theme=vue)
+ 
 </div>
 
 <h3 align ='center'> :hammer:기술 스택</h3>
