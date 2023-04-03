@@ -7,8 +7,8 @@
 
 <div align="center">
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ev1025&show_icons=true&theme=vue)
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ev1025&show_icons=true)
+
 </div>
 <h3 align ='center'> :hammer:기술 스택</h3>
 <h3 align='center'>  
