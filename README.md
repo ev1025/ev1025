@@ -51,3 +51,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+오류 : Something went wrong! file an issue at https://tiny.one/readme-stats 
+ -> https://devjaewoo.tistory.com/m/170// 보고 해결
+
+deloy할 때 오류
+The name contains invalid characters. Only letters, digits, and underscores are allowed. Furthermore, the name should start with a letter. 
+-> name에 공백없는지 확인
+토큰 : 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
+도메인 : github-readme-stats-steel-eight-75.vercel.app
+
+-->
