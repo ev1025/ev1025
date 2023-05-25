@@ -5,9 +5,11 @@
 <h3 align ='center'> 안녕하세요!</br>
 🌱 꿈을 심는 데이터 분석가 이진우입니다! </h3>
 
-<div align="center">
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ev1025&show_icons=true&hide=contribs,prs,issues&theme=algolia)
+<p align="center">
+<img height="180em" src="https://github-readme-stats-steel-eight-75.vercel.app/api?username=ev1025&show_icons=true" />
+<img height="180em" src="https://github-readme-stats-steel-eight-75.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook" />
+</p>
 
 </div>
 <h3 align ='center'> :hammer:기술 스택</h3>
