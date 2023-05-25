@@ -6,10 +6,7 @@
 🌱 꿈을 심는 데이터 분석가 이진우입니다! </h3>
 
  
-<p align="center">
-<img height="180em" src="https://github-readme-stats-steel-eight-75.vercel.app/api?username=ev1025&show_icons=true" />
-<img height="180em" src="https://github-readme-stats-steel-eight-75.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook" />
-</p>
+
 
 </div>
 <h3 align ='center'> :hammer:기술 스택</h3>
@@ -27,7 +24,10 @@
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 </h3>
-
+<p align="center">
+<img height="150em" src="https://github-readme-stats-steel-eight-75.vercel.app/api?username=ev1025&show_icons=true" />
+<img height="150em" src="https://github-readme-stats-steel-eight-75.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook" />
+</p>
 
 <!--
 스킬배찌 만드는법
