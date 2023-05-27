@@ -25,8 +25,8 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 </h3>
 <p align="center">
-<img height="165em" src="https://github-readme-stats-teal-gamma.vercel.app/api?username=ev1025&show_icons=true" />
-<img height="165em" src="https://github-readme-stats-teal-gamma.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook" />
+<img height="165em" src="https://github-readme-stats-c3i2.vercel.app/api?username=ev1025&show_icons=true" />
+<img height="165em" src="https://github-readme-stats-c3i2.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook" />
 </p>
 
 <!--
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 deloy할 때 오류
 The name contains invalid characters. Only letters, digits, and underscores are allowed. Furthermore, the name should start with a letter. 
 -> name에 공백없는지 확인
-토큰 : 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
-도메인 : github-readme-stats-teal-gamma.vercel.app
+토큰 : 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
+도메인 : github-readme-stats-c3i2.vercel.app
 
 -->
