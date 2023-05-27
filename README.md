@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 deloy할 때 오류
 The name contains invalid characters. Only letters, digits, and underscores are allowed. Furthermore, the name should start with a letter. 
 -> name에 공백없는지 확인
-토큰 : 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
-도메인 : github-readme-stats-steel-eight-75.vercel.app
+토큰 : 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
+도메인 : github-readme-stats-teal-gamma.vercel.app
 
 -->
