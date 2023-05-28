@@ -61,6 +61,7 @@ Here are some ideas to get you started:
 deloy할 때 오류
 The name contains invalid characters. Only letters, digits, and underscores are allowed. Furthermore, the name should start with a letter. 
 -> name에 공백없는지 확인
-토큰 : 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
+토큰 : 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
+
 
 -->
