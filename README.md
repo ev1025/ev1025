@@ -25,6 +25,11 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 </h3>
 
+<p align="center">
+<img height="165em" src="https://github-readme-stats-b3kl.vercel.app/api?username=ev1025&show_icons=true" />
+<img height="165em" src="https://github-readme-stats-b3kl.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook" />
+</p>
+
 
 <!--
 스킬배찌 만드는법
