@@ -26,8 +26,8 @@
 </h3>
 
 <p align="left">
-<img height="165em" src="https://github-readme-stats-lilac-beta.vercel.app/api?username=ev1025&show_icons=true" />
-<img height="165em" src="https://github-readme-stats-lilac-beta.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook" />
+<img height="165em" src="https://github-readme-stats-ev1025.vercel.app/api?username=ev1025&show_icons=true" />
+<img height="165em" src="https://github-readme-stats-ev1025.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook" />
 </p>
 
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 deloy할 때 오류
 The name contains invalid characters. Only letters, digits, and underscores are allowed. Furthermore, the name should start with a letter. 
 -> name에 공백없는지 확인
-토큰 : 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
+토큰 : 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
 
 
 -->
