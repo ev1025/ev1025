@@ -26,8 +26,8 @@
 </h3>
 
 <p align="left">
-<img height="165em" src="https://github-readme-stats-ev1025.vercel.app/api?username=ev1025&show_icons=true" />
-<img height="165em" src="https://github-readme-stats-ev1025.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook" />
+<img height="165em" src="https://github-readme-stats-beige-theta.vercel.app/api?username=ev1025&show_icons=true" />
+<img height="165em" src="https://github-readme-stats-beige-theta.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook" />
 </p>
 
 
