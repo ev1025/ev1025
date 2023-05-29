@@ -30,9 +30,10 @@
 <img height="165em" src="https://github-readme-stats-fdgu.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook" />
 </p>
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats-fdgu.vercel.app/api?username=ev1025&show_icons=true&hide=issues,prs,&card_width=350)
 ![Anurag's GitHub stats](https://github-readme-stats-fdgu.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook&card_height=160)
-
+-->
 <!--
 스킬배찌 만드는법
 아이콘 : https://simpleicons.org/?q=MYS
