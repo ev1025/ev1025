@@ -13,10 +13,11 @@
 <h3 align='left'>  
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+ <img src="https://img.shields.io/badge/Tableau-F4FFFC?style=flat-square&logo=Tableau&logoColor=18BFFF"/></a> 
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-EDF8F9?style=flat-square&logo=Visual Studio Code&logoColor=007ACC"/></a>
-<img src="https://img.shields.io/badge/Tableau-F4FFFC?style=flat-square&logo=Tableau&logoColor=18BFFF"/></a> 
+
  </h3>
 <h3 align ='left'> :pencil2: 관심분야</h3>
 <h3 align='left'>  
