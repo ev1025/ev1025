@@ -11,7 +11,6 @@
 [<img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=ev1025&repo=happy_dog_map" />](https://github.com/ev1025/happy_dog_map)
 &nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=ev1025&repo=K-league_Ticketing" />](https://github.com/ev1025/K-league_Ticketing)
 &nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=ev1025&repo=Instacart" />](https://github.com/ev1025/Instacart)
-</div>
 </br>
 
 <h3 align ='left'> :hammer:기술 스택</h3>
@@ -27,9 +26,8 @@
 <h3 align='left'>
 <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>   
-</h3>
-</br>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a></h3>
+
 <h3 align ='left'> 📈 깃허브 Stats</h3>
 <p align="left">
 <img height="140em" src="https://github-readme-stats-fdgu.vercel.app/api?username=ev1025&show_icons=true" />
