@@ -8,9 +8,9 @@
 <h3 align ='left'>📋 프로젝트 </h3>
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🐶 강아지 행복지도 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;   ⚽️ K-League 예매분석&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🥑 Instacart 장바구니분석   
-[<img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=ev1025&repo=happy_dog_map" />](https://github.com/ev1025/happy_dog_map)
-&nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=ev1025&repo=K-league_Ticketing" />](https://github.com/ev1025/K-league_Ticketing)
-&nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats.vercel.app/api/pin/?username=ev1025&repo=Instacart" />](https://github.com/ev1025/Instacart)
+[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=happy_dog_map" />](https://github.com/ev1025/happy_dog_map)
+&nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=K-league_Ticketing" />](https://github.com/ev1025/K-league_Ticketing)
+&nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=Instacart" />](https://github.com/ev1025/Instacart)
 </br>
 
 <h3 align ='left'> :hammer:기술 스택</h3>
