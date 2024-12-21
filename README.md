@@ -5,7 +5,7 @@
  <h1 align ='left'> 👨‍🌾 안녕하세요! 
 🌱 꿈을 심는 데이터 분석가 이진우입니다! </h1></br>
 
-<h3 align ='left'>📋 프로젝트 </h3>
+<h3 align ='left'>📋 Project </h3>
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🐶 강아지 행복지도 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;   ⚽️ K-League 예매분석&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🥑 Instacart 장바구니분석   
 [<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=happy_dog_map" />](https://github.com/ev1025/happy_dog_map)
@@ -14,7 +14,7 @@
 </br>
 </br>
 
-<h3 align ='left'> :hammer:기술 스택  
+<h3 align ='left'> 🛠️ Skills Stack
 </br>
  </br>
  <img height="27em" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
@@ -29,7 +29,7 @@
   </h3>
 </br>
 
-<h3 align ='left'> 📈 깃허브 Stats</h3>
+<h3 align ='left'> 📈 Github Stats</h3>
 <p align="left">
 <img height="140em" src="https://github-readme-stats-fdgu.vercel.app/api?username=ev1025&show_icons=true" />
 <img height="140em" src="https://github-readme-stats-fdgu.vercel.app/api/top-langs/?username=ev1025&layout=compact&hide=jupyter%20notebook" />
