@@ -12,21 +12,22 @@
 &nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=K-league_Ticketing" />](https://github.com/ev1025/K-league_Ticketing)
 &nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=Instacart" />](https://github.com/ev1025/Instacart)
 </br>
+</br>
 
-<h3 align ='left'> :hammer:기술 스택</h3>
-<h3 align='left'>  
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
- <img src="https://img.shields.io/badge/Tableau-F4FFFC?style=flat-square&logo=Tableau&logoColor=18BFFF"/></a> 
- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Visual Studio Code-EDF8F9?style=flat-square&logo=Visual Studio Code&logoColor=007ACC"/></a>   
+<h3 align ='left'> :hammer:기술 스택  
+</br>
+ </br>
+ <img height="27em" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
+ <img height="27em" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
+ <img height="27em" src="https://img.shields.io/badge/Tableau-2CAAE0?style=flat-square&logo=Tableau&logoColor=white"/></a> 
+ <img height="27em" src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=F9AB01"/></a>
+ <img height="27em" src="https://img.shields.io/badge/Visual Studio Code-0084CB?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
+ <img height="27em" src="https://img.shields.io/badge/Google Sheet-34A853?style=flat-square&logo=Google sheets&logoColor=white"/></a>  
  </h3>
-<h3 align ='left'> :pencil2: 관심분야</h3>
-<h3 align='left'>
-<img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=Apache Spark&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a></h3>
+ <h3 align='left'> 
+
+  </h3>
+</br>
 
 <h3 align ='left'> 📈 깃허브 Stats</h3>
 <p align="left">
