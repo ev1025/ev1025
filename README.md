@@ -1,16 +1,12 @@
-
-
-
-
  <h1 align ='left'> 👨‍🌾 안녕하세요! 
 🌱 꿈을 심는 데이터 분석가 이진우입니다! </h1></br>
 
 <h3 align ='left'>📋 Project </h3>
 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🐶 강아지 행복지도 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;   ⚽️ K-League 예매분석&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🥑 Instacart 장바구니분석   
-[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=happy_dog_map" />](https://github.com/ev1025/happy_dog_map)
-&nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=K-league_Ticketing" />](https://github.com/ev1025/K-league_Ticketing)
-&nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=Instacart" />](https://github.com/ev1025/Instacart)
+#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💳 대안 신용 평가 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 🤖 나만의 수학 선생님 만들기 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🐶 강아지 행복지도  
+[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=Alternative-Credit-Scoring" />](https://github.com/ev1025/Alternative-Credit-Scoring)
+&nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=Gemma2_FineTuning_Math_Teacher_Mingle" />](Gemma2_FineTuning_Math_Teacher_Mingle)
+&nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=happy_dog_map" />](https://github.com/ev1025/happy_dog_map)
 </br>
 </br>
 
@@ -48,6 +44,8 @@ state
 repocard
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ev1025&repo=happy_dog_map)](https://github.com/ev1025/happy_dog_map)   
 -->
+
+
 <!--
 스킬배찌 만드는법
 아이콘 : https://simpleicons.org/?q=MYS
@@ -56,20 +54,7 @@ repocard
 -->
 
 <h3 align='center'> </h3>
-<!--
-**ev1025/ev1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!--
 오류 : Something went wrong! file an issue at https://tiny.one/readme-stats 
