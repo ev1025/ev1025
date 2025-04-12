@@ -5,7 +5,7 @@
 
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💳 대안 신용 평가 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🤖 나만의 수학 선생님 만들기 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  🐶 강아지 행복지도  
 [<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=Alternative-Credit-Scoring" />](https://github.com/ev1025/Alternative-Credit-Scoring)
-&nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=Gemma2_FineTuning_Math_Teacher_Mingle" />](Gemma2_FineTuning_Math_Teacher_Mingle)
+&nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=Gemma2_FineTuning_Math_Teacher_Mingle" />](https://github.com/ev1025/Gemma2_FineTuning_Math_Teacher_Mingle)
 &nbsp; &nbsp;[<img height="80em" src="https://github-readme-stats-fdgu.vercel.app/api/pin/?username=ev1025&repo=happy_dog_map" />](https://github.com/ev1025/happy_dog_map)
 </br>
 </br>
