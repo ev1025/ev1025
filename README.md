@@ -15,9 +15,6 @@
  <img height="27em" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> 
  <img height="27em" src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
  <img height="27em" src="https://img.shields.io/badge/Tableau-2CAAE0?style=flat-square&logo=Tableau&logoColor=white"/></a> 
- <img height="27em" src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=F9AB01"/></a>
- <img height="27em" src="https://img.shields.io/badge/Visual Studio Code-0084CB?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
- <img height="27em" src="https://img.shields.io/badge/Google Sheet-34A853?style=flat-square&logo=Google sheets&logoColor=white"/></a>  
   </h3>
 </br>
 
